@@ -1,3 +1,23 @@
+body {
+    height: 2000vh;
+   background-image: url('https://codetheweb.blog/assets/img/posts/css-advanced-background-images/mountains.jpg');
+   background-size: 2000px;
+   font-weight: 20px;
+   font-size: 27px;
+     }
 h1 {
     color:blue;
 }
+hr {
+    height: 10px;
+    background-color:rgba(123, 47, 255, 0.45);
+    border-width: 1px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-color:greenyellow ;
+}
+div {
+    max-block-size: 500%;
+
+}   
+    
