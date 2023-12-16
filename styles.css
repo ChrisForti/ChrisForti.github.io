@@ -23,8 +23,14 @@ hr {
 }
 
 h2 {
-    max-block-size: 500%;
+    max-block-size: 50%;
     text-align: center;
     text-emphasis-color: green;
+
+}
+
+p {
+    color: blue;
+    text-align: center;
 
 }
