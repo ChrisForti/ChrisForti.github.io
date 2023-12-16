@@ -26,12 +26,12 @@ h2 {
     color: bisque;
     max-block-size: 5%;
     text-align: center;
-    text-emphasis-color: green;
+
 
 }
 
 p {
-    color: rgba(0, 255, 98, 0.702);
+    color: rgba(0, 255, 98, 0.94);
     text-align: center;
 
 }
