@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-    color: rgba(0, 255, 42, 0.583);
+    color: rgb(134, 198, 169);
     text-align: center;
     font-family: sans-serif;
 
@@ -15,7 +15,7 @@ h1 {
 
 hr {
     height: 10px;
-    background-color: rgba(255, 99, 47, 0.152);
+    background-color: rgba(146, 99, 133, 0.656);
     border-width: 1px;
     border-top-left-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -23,7 +23,7 @@ hr {
 }
 
 h2 {
-    color: bisque;
+    color: rgb(204, 255, 196);
     max-block-size: 5%;
     text-align: center;
 
@@ -31,7 +31,7 @@ h2 {
 }
 
 p {
-    color: rgba(3, 15, 7, 0.731);
+    color: white (29, 23, 182, 0.713);
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif P;
 

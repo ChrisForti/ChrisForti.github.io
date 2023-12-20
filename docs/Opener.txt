@@ -1,0 +1,14 @@
+After spending over 20 years as a boatbuilder honing my craft, and designing seaworthy vessels.
+ I've embarked on an exciting career shift into the world of devops. 
+ Though worlds apart, I've found that many of the same principles that lead to high-quality boatbuilding. 
+ Continuous improvement, automation, and modular architectures, also enable scaling and resilience in complex software systems. 
+ My journey from physical to digital construction has been fueled by a passion for optimization and capability building. 
+ 
+ 
+ 
+ Just as I iterated wooden hull designs and experimenting with techniques to improve structural integrity. 
+ Now get applied to infrastructures and deployment pipelines. 
+ I may have traded saws and drills for VSC, and bash, but that builder's spirit remains. 
+ 
+ 
+ In this blog, I'll share lessons from my unusual path along with stories of projects that have let me blend woodwork with systems administration and coding. Whether you're a fellow boatlover or just curious, I hope you find some unexpected perspectives on achieving reliability through years of learning just-in-time engineering. Welcome aboard!
