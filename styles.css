@@ -41,5 +41,7 @@ p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border-style: inset;
     border-width: 9px;
+    border-color: rgba(46, 11, 158, 0.631);
+    color-interpolation-filters: linearRGB;
    
  }
