@@ -11,7 +11,8 @@ After spending over 20 years as a boatbuilder honing my craft, and designing sea
  I may have traded saws and drills for VSC, and bash, but that builder's spirit remains. 
  
  
- In this blog, I'll share lessons from my unusual path along with stories of projects that have let me blend woodwork with systems administration, and coding. 
- Whether you're a fellow boatlover, or just curious.
-  I hope you find some unexpected perspectives on achieving reliability through years of learning, and just in time engineering. 
+ In this blog, I'll share lessons from my unusual path. 
+ Along with stories of projects that have let me blend highend vessel fabrication, with systems administration, and coding. 
+ Whether you're a maritime enthusiast, carreer flip guru, underdog rooter, or just curious.
+ I hope you find some unexpected perspectives on achieving reliability through years of learning, and just in time engineering. 
   Welcome aboard!

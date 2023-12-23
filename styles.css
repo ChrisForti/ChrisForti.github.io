@@ -36,6 +36,10 @@ p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif P;
 
 }
-img {
-    
-}
+ mark {
+    color: rgba(7, 40, 225, 0.852);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-style: inset;
+    border-width: 9px;
+   
+ }
