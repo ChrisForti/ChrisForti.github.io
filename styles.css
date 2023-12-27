@@ -1,7 +1,6 @@
 body {
-    height: 2000vh;
+    height: 20vh;
     background-image: url('https://codetheweb.blog/assets/img/posts/css-advanced-background-images/mountains.jpg');
-    background-size: 2000px;
     font-weight: 20px;
     font-size: 27px;
 }
