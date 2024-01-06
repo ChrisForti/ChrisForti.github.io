@@ -1,9 +1,17 @@
 body {
     height: 20vh;
-    background-image: url('https://codetheweb.blog/assets/img/posts/css-advanced-background-images/mountains.jpg');
     font-weight: 20px;
     font-size: 27px;
 }
+
+html { 
+        background: url(images/ryboyardpic3.jpeg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      }
+
 
 h1 {
     color: rgb(134, 198, 169);
