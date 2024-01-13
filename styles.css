@@ -42,11 +42,11 @@ p {
 
 }
  mark {
-    color: rgba(7, 40, 225, 0.852);
+    color: rgba(7, 225, 98, 0.852);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    border-style: inset;
+    border-style:ridge;
     border-width: 9px;
-    border-color: rgba(46, 11, 158, 0.631);
-    color-interpolation-filters: linearRGB;
+    border-color: rgba(158, 11, 53, 0.631);
+    color-interpolation-filters:linearRGB;
    
  }
