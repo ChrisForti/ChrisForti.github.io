@@ -41,6 +41,10 @@ p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif P;
 
 }
+a {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(98, 200, 127);
+}
  data {
     color: rgb(255, 196, 231);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
