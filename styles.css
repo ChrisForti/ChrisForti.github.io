@@ -46,9 +46,9 @@ a {
   color: rgb(98, 200, 127);
 }
  data {
-    color: rgb(255, 196, 231);
+    color: rgb(199, 255, 196);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border-style:ridge;
     border-width: 9px;
-    border-color: rgba(24, 11, 15, 0.631);
+    border-color: rgba(48, 151, 125, 0.987);
 }
